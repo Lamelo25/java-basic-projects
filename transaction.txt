@@ -1,0 +1,11 @@
+--ATM TRANSACTION--
+
+DATE:28/08/2023
+TIME:13:54 PM
+
+Your Balance:$900.00
+
+ID		Type		Money		Date		Time
+1		deposit		200		28/08/2023t	13:54 PM
+2		withdraw		(-)200		28/08/2023t	13:54 PM
+3		withdraw		(-)100		28/08/2023t	13:54 PM
